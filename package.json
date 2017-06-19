@@ -1,0 +1,19 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "src/app.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuySizemore/mean-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuySizemore/mean-todo/issues"
+  },
+  "homepage": "https://github.com/GuySizemore/mean-todo#readme"
+}
