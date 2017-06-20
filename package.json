@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GuySizemore/mean-todo/issues"
   },
-  "homepage": "https://github.com/GuySizemore/mean-todo#readme"
+  "homepage": "https://github.com/GuySizemore/mean-todo#readme",
+  "dependencies": {
+    "express": "4.15.3"
+  }
 }
